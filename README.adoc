@@ -1,0 +1,6 @@
+Article recommendation by image
+=================
+Ondřej Pírko <ondra@pirko.cz>
+
+Created as a school project at FIT CTU, specifically in MI-MVI course. Input is a picture to which appropriate articles are found. In this specific case articles from BBC were used (http://mlg.ucd.ie/files/datasets/bbc-fulltext.zip). Training images from Flickr8k dataset were used (https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/).
+CNN, RNN and Doc2Vec used. Image captioning inspiration taken from https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_10_4_captioning.ipynb.
